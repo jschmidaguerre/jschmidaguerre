@@ -8,11 +8,11 @@
 
 ### About Me:
 
-- 🔭 I’m currently working on freelance work
+- 🔭 I’m currently working in Whirlpool Corporation.
 
-- 🌱 I'm currently learning **JAVA and SQL**
+- 🌱 Always learning.
 
-- 💬 Ask me about **JavaScript, ReactJS, NodeJS, ExpressJS, HTML, CSS and Python**
+- 💬 Ask me about **Fullstack Development and Programming**.
 
 - 📫 How to reach me **juanseaguerre@gmail.com**
 
