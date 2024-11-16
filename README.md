@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about AI and Machine Learning.\
 🏋️ &nbsp;In my free time, I love training and lifting weights.\
 💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at juanseaguerre@gmail.com! I'll respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at juanseaguerre@gmail.com! I'll respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
