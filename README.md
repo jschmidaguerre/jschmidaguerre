@@ -1,6 +1,14 @@
 <h1> Hi, I'm Juanse! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I'm currently working at Whirlpool Corporation in Buenos Aires, Argentina as Functional Analyst.\
@@ -11,7 +19,7 @@
 ✉️ &nbsp;You can shoot me an email at juanseaguerre@gmail.com! I'll respond as soon as I can.
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
