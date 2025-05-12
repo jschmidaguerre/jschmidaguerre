@@ -13,7 +13,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I'm currently working at Whirlpool Corporation in Buenos Aires, Argentina as Functional Analyst.\
+👨‍💻 &nbsp;I'm currently working at Scienza in Buenos Aires, Argentina as Process Analyst.\
 🎓 &nbsp;I'm currently studying Computer Science Engineering and Software Development at Argentine Business university and I am also graduated with a university diploma in full stack web development.\
 🌱 &nbsp;I'm on track for learning more about AI and Machine Learning.\
 🏋️ &nbsp;In my free time, I love training and lifting weights.\
